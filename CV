@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Curriculo Talmir Jr</title>
+</head>
+<body>
+		<h1>Talmir Junior</h1>
+	<strong>Cidade:</strong> São Paulo
+<br><strong>Telefone:</strong> (11)98272-6397
+<br><strong>Email:</strong>
+ <a href="mailto:jnosp@hotmail.com"> jnosp@hotmail.com		</a> 
+
+<hr> <!--Linha que separa a pagina-->
+
+<br>
+<h2>Objetivo</h2>
+Criar meu site até o final deste ano e entrar no mercado da programação.
+<br><br>
+
+<h2>Formação</h2>
+
+<strong>Graduação em adminsitração de empresas</strong> <br>Universidade Paulista - UNIP 2017;
+
+<br><br>
+
+<strong>Tecnologo em análise e desenvolvimento de sistemas</strong> <br>Universidade Ahembi Morumbi - término 12/2022;
+
+<br><br><br>
+
+<h2>Experiencia</h2>
+
+<a href="https://ortobom.com.br">
+
+<img src="imagens/ortobom-logo.png" alt="Ortobom colchões" height="50" width="100" >
+	</a>
+
+<strong> Analista de Departamento pessoal </strong> 
+
+<a href="https://ortobom.com.br">Site Ortobom </a>
+
+<br><br>
+Administração dos beneficios da empresa e automatização de alguma rotinas. 
+<br><br> 
+
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.or.com.br%2Fnovamarca%2Fassets%2Fimg%2Flogo.png&imgrefurl=https%3A%2F%2Fwww.or.com.br%2Fnovamarca%2F&tbnid=LRrGtQG8BRbuBM&vet=12ahUKEwjPsZyl1K_zAhUENTUKHb9oB8QQMygBegUIARCsAQ..i&docid=pZWMlwD8ntm2JM&w=465&h=267&q=odebrecht%20realiza%C3%A7%C3%B5es%20imobili%C3%A1rias&ved=2ahUKEwjPsZyl1K_zAhUENTUKHb9oB8QQMygBegUIARCsAQ" alt="OR" height="50" width="100" >
+
+
+<h2>Habilidades</h2>
+
+<ul>
+	<li>Javascript</li>
+	<li>HTML</li>
+	<li>CSS</li>
+	<li>Beneficios</li>
+	<li>Rotinas Administrativas</li>
+
+</ul>
+
+
+
+
+
+
+
+</body>
+</html>
